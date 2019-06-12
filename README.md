@@ -12,7 +12,7 @@ This is the repo of a short tutorial aims to simplify the process of **reserve t
 git clone https://github.com/tinng81/CopyHighlightService/
 ```
 
-* Open Service with `Autonomator Installer`
+* Open Service with `Automator Installer`
 ```
 cd CopyHighlightService && open Copy\ Syntax\ Highlight.workflow
 ```
